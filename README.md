@@ -19,7 +19,7 @@ Team Name : 머니 위버 (Money Weavers)
 | 유혜린 	| 팀장  	| DB(MySQL) 	| @Lerini98     	|
 | 구나연 	| 팀원  	| 웹 크롤링 	| @Gunayeon     	|
 | 김성은 	| 팀원  	| 웹 크롤링 	| @cocoailjuice 	|
-| 정재현 	| 팀원  	| 화면 구성 	| @정재현       	|
+| 정재현 	| 팀원  	| 화면 구성 	| @Theeojeong       	|
 
 
 ## Project Requirements
